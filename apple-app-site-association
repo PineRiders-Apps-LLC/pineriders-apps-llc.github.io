@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "LQR5Q5JJ74.com.pineridersapp.sportsmanagement"
+                ],
+                "components": [
+                    {
+                        "/": "/app/*",
+                        "comment": "Matches any URL with a path that starts with /app/"
+                    }
+                ]
+            }
+        ]
+    }
+}
