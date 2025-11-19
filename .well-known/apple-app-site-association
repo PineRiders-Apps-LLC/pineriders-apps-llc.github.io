@@ -1,16 +1,10 @@
 {
     "applinks": {
+        "apps": [],
         "details": [
             {
-                "appIDs": [
-                    "LQR5Q5JJ74.com.pineridersapps.SportsManagement"
-                ],
-                "components": [
-                    {
-                        "/": "/app/*",
-                        "comment": "Matches any URL with a path that starts with /app/"
-                    }
-                ]
+                "appID": "LQR5Q5JJ74.com.pineridersapps.SportsManagement",
+                "paths": ["/app/*"]
             }
         ]
     }
